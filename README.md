@@ -122,12 +122,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Uses the native [EyeDropper API](https://developer.mozilla.org/en-US/docs/Web/API/EyeDropper)
 - Inspired by the need for better color management in note-taking
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/syntetyc/obsidian-eyedropper/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/syntetyc/obsidian-eyedropper/discussions)
-- **Author**: [@syntetyc](https://www.syntetyc.com)
-
 ---
 
 **Made with ❤️ for the Obsidian community**
