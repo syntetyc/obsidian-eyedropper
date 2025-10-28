@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-colorpicker",
+  "name": "Obsidian Eyedropper",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Color picker with EyeDropper. Insert HEX or RGBA in your notes.",
+  "author": "@syntetyc",
+  "authorUrl": "https://www.syntetyc.com",
+  "isDesktopOnly": true
+}

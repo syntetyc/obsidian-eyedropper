@@ -1,0 +1,21 @@
+.colorpicker-setting .setting-item-description {
+  opacity: 0.8;
+}
+
+/* Color preview circle */
+.color-preview {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  border: 1px solid var(--background-modifier-border);
+  margin-right: 4px;
+  vertical-align: middle;
+  position: relative;
+  top: -1px;
+}
+
+/* Fallback for when CSS variables are not supported */
+.color-preview {
+  border: 1px solid #ccc;
+}
